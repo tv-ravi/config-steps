@@ -3,7 +3,7 @@ Required:
 Git (Latest)
 Node JS (Latest LTS)
 JDK (Latest LTS)
-Android Studio
+Android Studio  
 X Code
 Visual Studio Code or WebStorm (With ES lint, Prettier Extensions/Settings - Installed/Enabled)
 Environment Setup, follow instructions from official site:
